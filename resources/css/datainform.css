@@ -1,0 +1,14 @@
+.board-detail {
+	display: block;
+	padding: 9.5px;
+	margin: 0 0 10px;
+	font-size: 13px;
+	line-height: 0.5;
+	background-color: white;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+.board-title {
+	font-size: 18px;
+	font-weight: bold;
+}
